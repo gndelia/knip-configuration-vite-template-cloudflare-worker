@@ -1,0 +1,1 @@
+export const usedFn = () => console.log('used')
